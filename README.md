@@ -1,6 +1,8 @@
 mcrio-wiki-mark
 ===============
 
+[![Build Status](https://travis-ci.org/mcrio/wiki-mark.png)](https://travis-ci.org/mcrio/wiki-mark)
+
 A minimal wiki markup language. Currently requires CoffeeScript.
 
 
