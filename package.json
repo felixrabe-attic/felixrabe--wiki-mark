@@ -1,6 +1,6 @@
 {
   "name": "mcrio-wiki-mark",
-  "version": "0.0.1",
+  "version": "0.0.2-git",
   "description": "A minimal wiki markup language (currently for CoffeeScript only, sorry)",
   "license": "MIT",
   "keywords": [
