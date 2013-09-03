@@ -1,0 +1,28 @@
+{
+  "name": "mcrio-wiki-mark",
+  "version": "0.0.1",
+  "description": "A minimal wiki markup language (currently for CoffeeScript only, sorry)",
+  "license": "MIT",
+  "keywords": [
+    "wiki",
+    "markup"
+  ],
+  "author": "Felix Rabe",
+  "homepage": "http://mcr.io/wiki-mark",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mcrio/wiki-mark.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "matchdep": "~0.1.2",
+    "grunt-simple-mocha": "~0.4.0",
+    "chai": "~1.7.2",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "main": "src/wiki-mark.coffee",
+  "scripts": {
+    "test": "grunt test"
+  }
+}
